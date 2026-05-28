@@ -38,12 +38,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin" />
   <img width="12" />
 
-  <!-- Anroid -->
+  <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="30" alt="android" />
   <img width="12" />
 
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++" />
+  <img width="12" />
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
   <img width="12" />
 
 </div>
