@@ -40,6 +40,7 @@
 
   <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="30" alt="android" />
+  <img src="https://cdn.simpleicons.org/android" height="30" alt="android" />
   <img width="12" />
 
   <!-- C++ -->
