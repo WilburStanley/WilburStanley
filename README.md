@@ -11,7 +11,11 @@
 ```
 
 </div>
+<div align="center">
 
+**Application Developer** | **AI Engineer** | **Penetration Testing Practitioner**
+
+</div>
 <p>
   <code>&gt;&gt; Tech Stack</code>
 </p>
