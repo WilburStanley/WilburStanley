@@ -11,3 +11,8 @@
 ```
 
 </div>
+<p>
+  <code>&gt;&gt; Tech Stack</code>
+</p>
+
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,python,java,kotlin,cpp,linux,bash)](https://skillicons.dev)
