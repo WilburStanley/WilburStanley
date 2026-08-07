@@ -13,7 +13,7 @@
 </div>
 <div align="center">
 
-![Pentration tester](https://img.shields.io/badge/Pentest_Practitioner-1a1b26?style=for-the-badge)
+![Pentration tester](https://img.shields.io/badge/Pentration_Tester-1a1b26?style=for-the-badge)
 ![Application Developer](https://img.shields.io/badge/Application_Developer-1a1b26?style=for-the-badge)
 ![AI Engineer](https://img.shields.io/badge/AI_Engineer-1a1b26?style=for-the-badge)
 
