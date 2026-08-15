@@ -15,7 +15,8 @@
   "Web": ["Node.js", "Express.js", "React", "Tailwind CSS", "React Native"],
   "Android": ["Android SDK", "Jetpack Compose", "XML Layouts"],
   "Databases": ["Firebase", "Supabase", "MySQL", "SQLite"],
-  "Automation & AI": ["Python Scripting", "Web Scraping", "Desktop Automation", "OpenCV", "API Integration"],
+  "Automation & AI": ["Python Scripting", "Web Scraping", "Desktop Automation", "OpenCV", "API Integration",
+                      "Hugging Face"],
   "Developer Tools": ["Git", "GitHub", "VS Code", "Android Studio", "IntelliJ IDEA", "PyCharm", "CLion", "Expo"]
 }
 ```
