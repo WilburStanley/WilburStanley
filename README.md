@@ -16,7 +16,7 @@
   "Android": ["Android SDK", "Jetpack Compose", "XML Layouts"],
   "Databases": ["Firebase", "Supabase", "MySQL", "SQLite", "Postgres"],
   "Automation & AI": ["Python Scripting", "Web Scraping", "Desktop Automation", "OpenCV", "API Integration",
-                      "Hugging Face", n8n],
+                      "Hugging Face", "n8n"],
   "Developer Tools": ["Git", "GitHub", "Docker", "VS Code", "Android Studio", "IntelliJ IDEA", "PyCharm", "CLion", "Expo"]
 }
 ```
